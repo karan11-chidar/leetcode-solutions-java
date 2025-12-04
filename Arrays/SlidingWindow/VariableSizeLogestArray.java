@@ -1,4 +1,4 @@
-package SlidingWindow;
+package slidingwindow;
 
 class VariableSizeLongestArray {
     public int longestSubarray(int[] arr, int k) {
