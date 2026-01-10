@@ -1,3 +1,4 @@
+package binarysearch;
 public class classicbinarysearch {
     public int search(int[] nums, int target) {
         // *******************Brute-Force Solution***********************/

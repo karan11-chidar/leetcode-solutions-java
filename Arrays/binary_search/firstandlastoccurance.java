@@ -1,3 +1,4 @@
+package binary_search;
 public class firstandlastoccurance {
 
     public int[] searchRange(int[] nums, int target) {
