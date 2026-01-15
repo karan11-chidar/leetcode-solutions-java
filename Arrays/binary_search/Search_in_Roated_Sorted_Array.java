@@ -1,3 +1,4 @@
+package binary_search;
 public class Search_in_Roated_Sorted_Array {
     public int search(int[] nums, int target) {
         // *******************Brute-Force Solution************** */
