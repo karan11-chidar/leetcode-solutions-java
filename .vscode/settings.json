@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["kadanesalgorithum"]
+  "cSpell.words": ["kadanesalgorithum"],
+  "java.debug.settings.onBuildFailureProceed": true
 }
